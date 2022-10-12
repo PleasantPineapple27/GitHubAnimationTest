@@ -550,3 +550,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 572bdd94f5f706f4eb6ec06a56adee25, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  musicClipOne: {fileID: 8300000, guid: 03d417f5c0f5fc24098454dbbfe15391, type: 3}
+  musicClipTwo: {fileID: 8300000, guid: d7b2500a40e5c504796d87636ff7da40, type: 3}
+  musicSource: {fileID: 1125061695}

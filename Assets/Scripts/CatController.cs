@@ -2,14 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class script : MonoBehaviour
+public class CatController: MonoBehaviour
 {
-    public AudioSource musicSource;
 
     public AudioClip musicClipOne;
 
     public AudioClip musicClipTwo;
 
+    public AudioSource musicSource; 
+    
     Animator anim;
 
     // Start is called before the first frame update
